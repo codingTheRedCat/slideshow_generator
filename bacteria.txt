@@ -1,0 +1,1373 @@
+GBIF.org (24 October 2023) GBIF Occurrence Download  https://doi.org/10.15468/dl.qupdzd
+Pseudomonas taetrolens Haynes, 1957
+Streptomyces cremeus (Kudrina, 1957) Pridham et al., 1958
+Streptomyces tendae Ettlinger et al., 1958
+Streptomyces willmorei (Erikson, 1935) Waksman & Henrici, 1948
+Streptomyces durhamensis Gordon & Lapa, 1966
+Streptomyces puniceus Patelski, 1951
+Aeromicrobium fastidiosum (Collins & Stackebrandt, 1989) Tamura & Yokota, 1994
+Corynebacterium glutamicum (Kinoshita et al., 1958) Abe et al., 1967
+Corynebacterium cystitidis Yanagawa & Honda, 1978
+Alcaligenes xylosoxidans subsp. xylosoxidans
+Streptomyces violaceus (Rossi Doria, 1891) Waksman, 1953
+Streptomyces thermodiastaticus (Bergey et al., 1923) Waksman, 1953
+Mycoplasma iners Edward & Kanarek, 1960
+Nocardia Trevisan, 1889
+Streptomyces thermolineatus Goodfellow et al., 1988
+Actinokineospora globicatena Tamura et al., 1995
+Streptomyces griseolus
+Streptomyces roseosporus Falcao de Morais & Dalia Maia, 1961
+Aeromonas salmonicida subsp. salmonicida
+Microbacterium arborescens
+Weissella hellenica_B
+Stenotrophomonas maltophilia_B
+Streptomyces spiroverticillatus Shinobu, 1958
+Actinoplanes cyaneus Terekhova et al., 1987
+Mycoplasma neurolyticum (Sabin, 1941) Freundt, 1955
+Nocardia fusca
+Streptomyces albus E
+Streptomyces griseoaurantiacus (Krassilnikov & Yuan, 1965) Pridham, 1970
+Streptomyces rimosus subsp. paromomycinus Coffey et al., 1959
+Streptomyces ruber (Thirumalachar, 1955) Goodfellow et al., 1986
+Mycoplasma buccale Freundt et al., 1974
+Mycoplasma bovirhinis Leach, 1967
+Rhizobium loti Jarvis et al., 1982
+Pseudomonas pertucinogena Kawai & Yabuuchi, 1975
+Streptomyces chromofuscus (Preobrazhenskaya et al., 1957) Pridham et al., 1958
+Streptomyces prunicolor (Ryabova & Preobrazhenskaya, 1957) Pridham et al., 1958
+Catenuloplanes niger Tamura et al., 1995
+Arthrobacter citreus Sacks, 1954
+Bacillus simplex Priest et al., 1989
+Oceanospirillum maris subsp. williamsae Linn & Krieg, 1984
+Streptomyces carpinensis (Falcao de Morais et al., 1971) Goodfellow et al., 1986
+Streptomyces violaceolatus (Krassilnikov et al., 1965) Pridham, 1970
+Streptomyces tanashiensis Hata et al., 1952
+Saccharothrix aerocolonigenes Labeda, 1986
+Rhizobium huakuii Chen et al., 1991
+Acidianus brierleyi (Zillig et al., 1980) Segerer et al., 1986
+Photobacterium leiognathi Boisvert et al., 1967
+Promicromonospora enterophila Jáger et al., 1983
+Amycolatopsis orientalis subsp. orientalis
+Actinomadura spadix Nonomura & Ohara, 1971
+Carnobacterium piscicola (Hiu et al., 1984) Collins et al., 1987
+Streptomyces regalis
+Streptomyces capoamus Goncalves de Lima et al., 1964
+Amycolatopsis coloradensis Labeda, 1995
+Thermomonospora fusca McCarthy & Cross, 1984
+Rathayibacter rathayi (Smith, 1913) Zgurskaya et al., 1993
+Nocardiopsis (Brocq-Rousseau, 1904) Meyer, 1976
+Streptomyces kanamyceticus Okami & Umezawa, 1957
+Streptomyces albireticuli B
+Streptomyces mediocidicus (Labeda, 1988) Wellington et al., 1992
+Catenuloplanes nepalensis Tamura et al., 1995
+Mycoplasma spumans Edward, 1955
+Xanthomonas citri
+Streptomyces griseoplanus Backus et al., 1957
+Chryseobacterium meningosepticum (King, 1959) Vandamme et al., 1994
+Streptomyces diastatochromogenes (Krainsky, 1914) Waksman & Henrici, 1948
+Streptomyces graminearus Preobrazhenskaya, 1986
+Actinomadura coerulea Preobrazhenskaya et al., 1975
+Mycoplasma arginini Barile et al., 1968
+Bacillus migulanus Takagi et al., 1993
+Xanthomonas arboricola_C
+Agrobacterium gelatinovorum
+Mycoplasma canis Edward, 1955
+Streptomyces finlayi_A
+Streptomyces flavopersicus (Oliver et al., 1961) Witt & Stackebrandt, 1991
+Streptomyces catenulae Davisson & Finlay, 1961
+Streptomyces griseoloalbus (Kudrina, 1957) Pridham et al., 1958
+Vibrio orientalis Yang et al., 1983
+Bacillus reuszeri Shida et al., 1995
+Streptomyces griseoflavus (Krainsky, 1914) Waksman & Henrici, 1948
+Thermocrispum agreste Korn-Wendisch et al., 1995
+Saccharothrix longispora (Preobrazhenskaya & Sveshnikova, 1974) Grund & Kroppenstedt, 1990
+Streptomyces violens (Kalakoutskii & Krassilnikov, 1960) Goodfellow et al., 1987
+Streptomyces viridiviolaceus (Ryabova & Preobrazhenskaya, 1957) Pridham et al., 1958
+Streptomyces varsoviensis Kurylowicz & Woznicka, 1967
+Streptomyces griseomycini (Preobrazhenskaya et al., 1957) Pridham et al., 1958
+Actinomadura rubrobrunea
+Cytophaga marinoflava Reichenbach, 1989
+Vibrio nereis (Harwood et al., 1980) Baumann et al., 1981
+Streptomyces clavifer (Millard & Burr, 1926) Waksman, 1953
+Brevibacterium casei Collins et al., 1983
+Streptomyces mirabilis_C
+Streptomyces glomeratus
+Streptomyces bluensis Mason et al., 1963
+Catenuloplanes indicus Tamura et al., 1995
+Weissella confusa_A
+Bacillus curdlanolyticus Kanzawa et al., 1995
+Gluconobacter oxydans subsp. sphaericus Ameyama, 1975
+Amycolatopsis fastidiosa
+Corynebacterium pseudotuberculosis (Buchanan, 1911) Eberson, 1918
+Alicyclobacillus acidocaldarius A
+Streptomyces sioyaensis Nishimura et al., 1961
+Bacillus agri Nakamura, 1993
+Arthrobacter globiformis A
+Streptomyces nodosus Trejo, 1961
+Streptomyces ciscaucasicus Sveshnikova, 1986
+Micromonospora rosaria Horan & Brodsky, 1986
+Thermocrispum municipale Korn-Wendisch et al., 1995
+Streptomyces phosalacineus (Takahashi et al., 1985) Wellington et al., 1992
+Cellulomonas cellasea (Kellerman et al., 1913) Bergey et al., 1923
+Clostridium Prazmowski, 1880
+Streptoverticillium aureoversile Locci et al., 1969
+Streptomyces scabies Lambert & Loria
+Acidianus infernus Segerer et al., 1986
+Streptomyces resistomycificus Lindenbein, 1952
+Streptomyces violaceochromogenes (Ryabova & Preobrazhenskaya, 1957) Pridham, 1970
+Actinosynnema mirum Hasegawa et al., 1978
+Streptococcus bovis Orla-Jensen, 1919
+Agrobacterium tumefaciens_H
+Photobacterium phosphoreum (Cohn, 1878) Beijerinck, 1889
+Streptomyces gobitricini (Preobrazhenskaya & Sveshnikova, 1957) Pridham et al., 1958
+Pseudonocardia thermophila Henssen, 1957
+Bacillus coagulans Hammer, 1915
+Clavibacter michiganense subsp. michiganense
+Propionibacterium acidipropionici Orla-Jensen, 1909
+Aureobacterium testaceum (Komagata & Iizuka, 1964) Collins et al., 1983
+Carnobacterium alterfunditum Franzmann et al., 1993
+Xanthomonas phaseoli
+Bacillus circulans Jordan, 1890
+Streptomyces lipmanii (Waksman & Curtis, 1916) Waksman & Henrici, 1948
+Streptomyces torulosus Lyons & Pridham, 1971
+Cellulomonas fimi A
+Saccharomonospora Nonomura & Ohara, 1971
+Streptomyces jumonjinensis_A
+Mycoplana bullata Gray & Thornton, 1928
+Streptomyces sporoverrucosus
+Streptomyces griseostramineus (Preobrazhenskaya et al., 1957) Pridham et al., 1958
+Amycolatopsis mediterranei (Margalith & Beretta, 1960) Lechevalier et al., 1986
+Halobacterium saccharovorum Tomlinson & Hochstein, 1977
+Streptomyces griseoviridis A
+Streptomyces sulphureus (Gasperini, 1894) Waksman, 1953
+Streptomyces luteosporeus Witt & Stackebrandt, 1991
+Arthrobacter atrocyaneus Kuhn & Starr, 1960
+Halobacterium salinarium (Harrison & Kennedy, 1922) Elazari-Volcani, 1957
+Brevundimonas diminuta_A
+Streptomyces griseinus Waksman, 1959
+Flavobacterium odoratum_A
+Streptomyces bambergiensis Wallhäusser et al., 1966
+Streptomyces ambofaciens Pinnert-Sindico, 1954
+Streptomyces lydicus C
+Streptomyces rochei Berger et al., 1953
+Actinomadura fulvescens Terekhova et al., 1987
+Bacillus cereus Frankland & Frankland, 1887
+Streptomyces roseochromogenus
+Streptococcus equinus_B
+Rhizobium tropici_B
+Streptomyces hirsutus Ettlinger et al., 1958
+Streptomyces gibsonii (Erikson, 1935) Waksman & Henrici, 1948
+Actinoplanes auranticolor (Couch, 1963) Stackebrandt & Kroppenstedt, 1988
+Streptosporangium violaceochromogenes Kawamoto et al., 1975
+Arthrobacter duodecadis Lochhead, 1958
+Lactobacillus hilgardii Douglas & Cruess, 1936
+Aeromonas hydrophila subsp. hydrophila
+Lactococcus lactis subsp. lactis
+Deinococcus radiopugnans Brooks & Murray, 1981
+Streptomyces hygroscopicus subsp. decoyicus Vavra et al., 1959
+Streptomyces luridus (Krassilnikov et al., 1957) Waksman, 1961
+Agromyces fucosus subsp. fucosus
+Mycoplasma salivarium Edward, 1955
+Clostridium acetobutylicum McCoy et al., 1926
+Streptomyces polychromogenes Hageman et al., 1964
+Streptomyces kasugaensis
+Actinoplanes lobatus (Couch, 1963) Stackebrandt & Kroppenstedt, 1988
+Micromonospora carbonacea subsp. carbonacea
+Microbispora rosea subsp. rosea
+Streptomyces spectabilis Mason et al., 1961
+Streptomyces galilaeus Ettlinger et al., 1958
+Renibacterium salmoninarum Sanders & Fryer, 1980
+Methylobacterium extorquens (Urakami & Komagata, 1984) Bousfield & Green, 1985
+Streptomyces cochleatus Nakagaito et al., 1993
+Streptomyces anthocyanicus (Krassilnikov et al., 1965) Pridham, 1970
+Catellatospora matsumotoense Asano et al., 1989
+Saccharomonospora glauca Greiner-Mai et al., 1988
+Microtetraspora flexuosa (Meyer, 1989) Kroppenstedt et al., 1991
+Streptomyces albus subsp. albus
+Streptomyces olivaceoviridis (Preobrazhenskaya & Ryabova, 1957) Pridham et al., 1958
+Arthrobacter crystallopoietes Ensign & Rittenberg, 1963
+Bacillus borstelensis Shida et al., 1995
+Bacillus alginolyticus Nakamura, 1987
+Bradyrhizobium Jordan, 1982
+Streptomyces flaveus (Cross et al., 1963) Goodfellow et al., 1986
+Streptomyces xanthocidicus Asahi et al., 1966
+Streptomyces hawaiiensis Cron et al., 1956
+Pilimelia columellifera subsp. columellifera
+Streptomyces libani subsp. libani
+Streptomyces xylophagus
+Vibrio carchariae Grimes et al., 1985
+Methylobacterium rhodinum (Heumann, 1962) Green & Bousfield, 1983
+Burkholderia cepacia_D
+Microbacterium lacticum Orla-Jensen, 1919
+Streptosporangium vulgare Nonomura & Ohara, 1960
+Streptomyces sampsonii (Millard & Burr, 1926) Waksman, 1953
+Streptomyces albogriseolus Benedict et al., 1954
+Streptomyces griseoincarnatus (Preobrazhenskaya et al., 1957) Pridham et al., 1958
+Streptomyces misionensis A
+Streptomyces albulus_C
+Streptomyces fimicarius (Duche, 1934) Waksman & Henrici, 1948
+Streptomyces flavoviridis
+Vibrio vulnificus (Reichelt et al., 1979) Farmer, 1980
+Streptomyces cinerochromogenes Miyairi et al., 1966
+Streptomyces hiroshimensis (Shinobu, 1955) Witt & Stackebrandt, 1991
+Streptomyces pseudovenezuelae (Kuchaeva et al., 1961) Pridham, 1970
+Streptomyces rimosus subsp. rimosus
+Nocardioides luteus_A
+Acholeplasma laidlawii A
+Acetobacter aceti B
+Streptomyces citreofluorescens (Korenyako et al., 1960) Pridham, 1970
+Streptomyces chrysomallus subsp. chrysomallus
+Streptomyces wedmorensis
+Sphingomonas mali Takeuchi et al., 1995
+Streptomyces litmocidini (Ryabova & Preobrazhenskaya, 1957) Pridham et al., 1958
+Streptomyces ramulosus Ettlinger et al., 1958
+Streptoverticillium syringium Konev, 1986
+Streptomyces murinus Frommer, 1959
+Actinopolyspora mortivallis Yoshida et al., 1991
+Lactobacillus acidophilus (Moro, 1900) Hansen & Mocquot, 1970
+Streptomyces thermovulgaris Henssen, 1957
+Streptomyces iakyrus deQuerioz & Albert, 1962
+Thermomonospora mesophila Nonomura & Ohara, 1971
+Lactobacillus curvatus (Troili-Petersson, 1903) Abo-Elnaga & Kandler, 1965
+Streptomyces rectiverticillatus (Krassilnikov & Yuan, 1965) Witt & Stackebrandt, 1991
+Streptomyces violaceorubidus Terekhova, 1986
+Streptosporangium album Nonomura & Ohara, 1960
+Bacillus thiaminolyticus Nakamura, 1990
+Bacillus chondroitinus Nakamura, 1987
+Bacillus sphaericus Meyer & Neide, 1904
+Streptomyces caeruleus (Baldacci, 1944) Pridham et al., 1958
+Streptomyces flaveolus_A
+Burkholderia caryophylli (Burkholder, 1942) Yabuuchi et al., 1993
+Streptomyces roseoverticillatus
+Alloiococcus otitis Aguirre & Collins, 1992
+Thermoactinomyces putidus Lacey & Cross, 1989
+Kibdelosporangium aridum subsp. aridum
+Corynebacterium variabilis (Müller, 1961) Collins, 1987
+Empedobacter brevis (Holmes & Owen, 1982) Vandamme et al., 1994
+Planomonospora parontospora subsp. parontospora
+Streptomyces violaceoruber_B
+Methylobacterium aminovorans Urakami et al., 1993
+Pseudomonas syringae subsp. syringae
+Streptomyces purpeofuscus Yamaguchi & Saburi, 1955
+Streptomyces coelicoflavus Terekhova, 1986
+Micromonospora halophytica subsp. halophytica
+Mycoplasma fermentans Edward, 1955
+Aerococcus urinae_A
+Zymomonas mobilis subsp. pomaceae (Millis, 1956) De Ley & Swings, 1976
+Streptomyces cinnamoneus subsp. albosporus (Thirumalachar, 1968) Witt & Stackebrandt, 1991
+Saccharopolyspora rectivirgula (Krassilnikov & Agre, 1964) Korn-Wendisch et al., 1989
+Planomonospora venezuelensis Thiemann, 1970
+Xanthomonas campestris_B
+Actinoplanes ferrugineus A
+Halobacterium sodomense Oren, 1983
+Sebekia Sambon, 1922
+Sphingomonas pruni Takeuchi et al., 1995
+Streptomyces viridodiastaticus
+Cellulomonas uda (Kellerman et al., 1913) Bergey et al., 1923
+Corynebacterium amycolatum_A
+Streptomyces cinnamoneus_A
+Pseudomonas Migula, 1894
+Sphingomonas asaccharolytica Takeuchi et al., 1995
+Streptomyces lienomycini Gause & Maksimova, 1986
+Corynebacterium mycetoides
+Mycobacterium smegmatis (Trevisan, 1889) Lehmann & Neumann, 1899
+Lactobacillus delbrueckii subsp. bulgaricus (Orla-Jensen, 1919) Weiss et al., 1984
+Lactobacillus reuteri Kandler et al., 1982
+Acholeplasma granularum (Switzer, 1964) Edward & Freundt, 1970
+Klebsiella pneumoniae (Schroeter, 1886) Trevisan, 1887
+Streptomyces xanthochromogenes Arishima et al., 1956
+Streptomyces kentuckensis (Barr & Carman, 1956) Witt & Stackebrandt, 1991
+Aquaspirillum itersonii subsp. nipponicum (Terasaki, 1973) Terasaki, 1979
+Microtetraspora roseoviolacea (Nonomura & Ohara, 1971) Kroppenstedt et al., 1991
+Brevibacterium iodinum
+Streptomyces fumigatiscleroticus
+Streptomyces antibioticus_B
+Streptomyces griseosporeus Niida & Ogasawara, 1960
+Vibrio penaeicida_A
+Streptomyces flocculus (Duche, 1934) Waksman & Henrici, 1948
+Corynebacterium bovis Bergey et al., 1923
+Lactobacillus delbrueckii subsp. lactis (Orla-Jensen, 1919) Weiss et al., 1984
+Nocardioides simplex A
+Nocardioides thermolilacinus Lu & Yan, 1983
+Xanthobacter autotrophicus_B
+Streptomyces sindenensis Nakazawa & Fujii, 1957
+Streptomyces neyagawaensis Yamamoto et al., 1960
+Propionibacterium freudenreichii subsp. shermanii (van Niel, 1928) Holdeman & Moore, 1970
+Haloarcula vallismortis (González et al., 1979) Torreblanca et al., 1986
+Streptomyces aureofaciens Duggar, 1948
+Streptomyces glomeroaurantiacus (Krassilnikov & Yuan, 1965) Pridham, 1970
+Cellulomonas flavigena (Kellerman & McBeth, 1912) Bergey et al., 1923
+Comamonas testosteroni_D
+Enterobacter aerogenes Hormaeche & Edwards, 1960
+Amycolatopsis orientalis subsp. lurida
+Oligella urethralis (Lautrop et al., 1970) Rossau et al., 1987
+Streptomyces griseorubiginosus_A
+Streptomyces hachijoensis (Hosoya et al., 1952) Witt & Stackebrandt, 1991
+Saccharopolyspora hordei Goodfellow et al., 1989
+Curtobacterium citreum (Komagata & Iizuka, 1964) Yamada & Komagata, 1972
+Sphingobacterium heparinum (Payza & Korn, 1956) Takeuchi & Yokota, 1993
+Amphibacillus xylanus Niimura et al., 1990
+Streptomyces olivaceiscleroticus Pridham, 1970
+Vibrio harveyi (Johnson & Shunk, 1936) Baumann et al., 1981
+Bacillus licheniformis (Weigmann, 1898) Chester, 1901
+Streptomyces glaucus
+Burkholderia gladioli B
+Agrobacterium vitis Ophel & Kerr, 1990
+Streptomyces platensis Tresner & Backus, 1956
+Nocardia seriolae Kudo et al., 1988
+Saccharopolyspora gregorii Goodfellow et al., 1989
+Paracoccus halodenitrificans (Robinson & Gibbons, 1952) Davis, 1969
+Micrococcus luteus (Schroeter, 1872) Cohn, 1872
+Streptomyces Waksman & Henrici, 1943
+Micromonospora echinospora subsp. ferruginea Luedemann & Brodsky, 1964
+Dactylosporangium roseum Shomura et al., 1985
+Acidobacterium capsulatum A
+Streptomyces coeruleoprunus Preobrazhenskaya, 1986
+Streptomyces longisporoflavus Waksman, 1953
+Kutzneria albida (Furumai et al., 1968) Stackebrandt et al., 1994
+Enterococcus faecalis (Andrewes & Horder, 1906) Schleifer & Kilpper-Bälz, 1984
+Cytophaga aquatilis Strohl & Tait, 1978
+Chryseobacterium balustinum (Harrison, 1929) Vandamme et al., 1994
+Lactobacillus delbrueckii subsp. delbrueckii
+incertae sedis
+Streptomyces nogalater Bhuyan & Dietz, 1966
+Streptomyces olivaceus (Waksman, 1923) Waksman & Henrici, 1948
+Streptomyces aculeolatus Shomura et al., 1988
+Streptomyces griseolosporeus Wellington et al., 1992
+Carnobacterium divergens A
+Chromobacterium violaceum Bergonzini, 1880
+Streptomyces recifensis
+Streptoverticillium sapporonense Locci & Schofield, 1989
+Mycobacterium chlorophenolicum (Apajalahti et al., 1986) Häggblom et al., 1994
+Actinomadura carminata Gauze et al., 1973
+Halomonas halmophila (Elazari-Volcani, 1940) Franzmann et al., 1989
+Streptomyces griseus subsp. cretosus Pridham, 1970
+Streptomyces cyanoalbus (Krassilnikov & Agre, 1960) Pridham, 1970
+Catellatospora citrea subsp. methionotrophica Asano & Kawamoto, 1988
+Arthrobacter nicotinovorans Kodama et al., 1992
+Streptomyces cavourensis subsp. washingtonensis Skarbek & Brady, 1978
+Curtobacterium albidum
+Streptomyces erythrochromogenes
+Hyphomonas neptunium (Leifson, 1964) Moore et al., 1984
+Streptomyces olivoreticuli
+Halobacterium halobium (Petter, 1931) Elazari-Volcani, 1957
+Streptomyces sulfonofaciens Miyadoh et al., 1983
+Streptomyces eurocidicus (Okami et al., 1954) Witt & Stackebrandt, 1991
+Streptosporangium carneum Mertz & Yao, 1990
+Amycolatopsis rugosa
+Amycolatopsis methanolica de Boer et al., 1990
+Actinokineospora riparia Hasegawa, 1988
+Actinomadura aurantiaca Lavrova & Preobrazhenskaya, 1975
+Roseobacter litoralis A
+Streptomyces ochraceiscleroticus Pridham, 1970
+Streptomyces pactum_A
+Aureobacterium luteolum Yokota et al., 1993
+Streptosporangium roseum Couch, 1955
+Streptomyces kunmingensis (Ruan et al., 1985) Goodfellow et al., 1986
+Streptomyces phaeoviridis Shinobu, 1957
+Streptomyces sannanensis Iwasaki et al., 1981
+Actinomadura kijaniata Horan & Brodsky, 1982
+Spirillospora albida Couch, 1963
+Lactobacillus rhamnosus (Hansen, 1968) Collins et al., 1989
+Lactobacillus fermentum Beijerinck, 1901
+Arthrobacter aurescens Phillips, 1953
+Saccharomonospora viridis (Schuurmans et al., 1956) Nonomura & Ohara, 1971
+Microtetraspora glauca Thiemann et al., 1968
+Aquaspirillum gracile (Canale-Parola et al., 1966) Hylemon et al., 1973
+Comamonas terrigena
+Streptomyces felleus Lindenbein, 1952
+Streptomyces misakiensis Nakamura, 1961
+Streptomyces cirratus Koshiyama et al., 1963
+Actinomadura yumaensis Labeda et al., 1985
+Rhizobium phaseoli_A
+Streptomyces bottropensis Waksman, 1961
+Streptomyces tauricus
+Agrobacterium stellulatum
+Pseudomonas synxantha (Ehrenberg, 1840) Holland, 1920
+Streptomyces lavendulae subsp. lavendulae
+Thiobacillus Beijerinck, 1904
+Xanthomonas cucurbitae
+Streptomyces argenteolus Tresner et al., 1961
+Streptomyces thioluteus (Okami, 1952) Witt & Stackebrandt, 1991
+Propionibacterium freudenreichii subsp. freudenreichii
+Streptomyces anulatus C
+Providencia stuartii_C
+Streptomyces djakartensis Huber et al., 1962
+Streptomyces roseiscleroticus Pridham, 1970
+Cytophaga arvensicola Oyaizu et al., 1983
+Bacillus tusciae Bonjour & Aragno, 1985
+Streptomyces fumanus (Sveshnikova, 1957) Pridham et al., 1958
+Streptomyces flavidofuscus Preobrazhenskaya, 1986
+Pilimelia anulata Kane, 1966
+Nocardiopsis lucentensis Yassin et al., 1993
+Streptomyces coerulescens (Preobrazhenskaya, 1957) Pridham et al., 1958
+Streptomyces fluorescens (Krassilnikov, 1958) Pridham, 1970
+Aureobacterium saperdae (Lysenko, 1959) Collins et al., 1983
+Bacillus aneurinolyticus Shida et al., 1994
+Sphingomonas rosa Takeuchi et al., 1995
+Streptomyces novaecaesareae Waksman & Henrici, 1948
+Corynebacterium flavescens Barksdale et al., 1979
+Pseudomonas oleovorans
+Streptomyces tuirus_A
+Rhodococcus equi (Goodfellow & Alderson, 1977)
+Bacillus choshinensis Takagi et al., 1993
+Streptomyces cacaoi subsp. cacaoi
+Methylobacterium fujisawaense Green et al., 1988
+Cellulomonas turbata (Erikson, 1954) Stackebrandt et al., 1983
+Corynebacterium callunae (Lee & Good, 1963) Yamada & Komagata, 1972
+Flexibacter canadensis Christensen, 1980
+Pseudomonas chlororaphis (Guignard & Sauvageau, 1894) Bergey et al., 1930
+Pseudoalteromonas carrageenovora (Akagawa-Matsushita et al., 1992) Gauthier et al., 1995
+Streptomyces bobili (Waksman & Curtis, 1916) Waksman & Henrici, 1948
+Streptomyces eurythermus Corbaz et al., 1957
+Brachybacterium rhamnosum Takeuchi et al., 1995
+Rhodococcus fascians (Tilford, 1936) Goodfellow, 1984
+Bacillus globisporus Larkin & Stokes, 1967
+Streptomyces gardneri (Waksman, 1942) Waksman, 1961
+Actinocorallia herbida Iinuma et al., 1994
+Microtetraspora ferruginea (Meyer, 1981) Kroppenstedt et al., 1991
+Bacillus kobensis Kanzawa et al., 1995
+Escherichia coli_E
+Methylobacterium zatmanii Green et al., 1988
+Actinoplanes teichomyceticus Wink et al., 2006
+Brochothrix thermosphacta (McLean & Sulzbacher, 1953) Sneath & Jones, 1976
+Nocardia pinensis Blackall et al., 1989
+Streptomyces agglomeratus
+Streptomyces virginiae_A
+Lactobacillus murinus Hemme et al., 1982
+Streptomyces albolongus Tsukiura et al., 1964
+Streptomyces cacaoi subsp. asoensis Isono et al., 1965
+Streptomyces ladakanum (Hanka et al., 1966) Witt & Stackebrandt, 1991
+Nocardia asteroides (Eppinger, 1891) Blanchard, 1896
+Lactobacillus plantarum (Orla-Jensen, 1919) Bergey et al., 1923
+Staphylococcus aureus Rosenbach, 1884
+Paenibacillus validus (Nakamura, 1984) Ash et al., 1994
+Streptomyces morookaense (Locci & Schofield, 1989) Witt & Stackebrandt, 1991
+Halococcus morrhuae (Farlow, 1880) Kocur & Hodgkiss, 1973
+Thiobacillus perometabolis London & Rittenberg, 1967
+Streptomyces septatus (Locci et al., 1969) Witt & Stackebrandt, 1991
+Streptosporangium nondiastaticum Nonomura & Ohara, 1969
+Propionibacterium jensenii van Niel, 1928
+Cytophaga agarovorans Reichenbach, 1989
+Streptomyces minutiscleroticus (Thirumalachar, 1965) Pridham, 1970
+Streptomyces werraensis Wallhäusser et al., 1964
+Streptomyces pilosus Ettlinger et al., 1958
+Couchioplanes caeruleus subsp. caeruleus
+Streptomyces calvus Backus et al., 1957
+Thermomonospora chromogena
+Xanthomonas translucens
+Saccharopolyspora erythraea (Waksman, 1923) Labeda, 1987
+Erwinia carotovora subsp. carotovora
+Methylobacterium radiotolerans
+Streptomyces spinoverrucosus_A
+Streptomyces avellaneus
+Streptomyces chrestomyceticus Canevazzi & Scotti, 1959
+Glycomyces harbinensis Labeda et al., 1985
+Kutzneria viridogrisea (Okuda et al., 1966) Stackebrandt et al., 1994
+Aureobacterium esteraromaticum (Omelianski, 1923) Yokota et al., 1993
+Clostridium kluyveri Barker & Taha, 1942
+Dactylosporangium salmoneum
+Streptomyces galbus A
+Streptomyces nitrosporeus Okami, 1952
+Streptomyces vinaceusdrappus
+Streptomyces violascens (Preobrazhenskaya & Sveshnikova, 1957) Pridham et al., 1958
+Micromonospora aurantiaca Sveshnikova et al., 1969
+Nesterenkonia halobia (Onishi & Kamekura, 1972) Stackebrandt et al., 1995
+Actinomadura vinacea Lavrova & Preobrazhenskaya, 1975
+Serratia proteamaculans subsp. proteamaculans
+Aquaspirillum peregrinum subsp. peregrinum
+Vibrio splendidus_J
+Thiobacillus versutus Harrison, 1983
+Gluconobacter frateurii Mason & Claus, 1989
+Streptomyces variabilis
+Streptomyces virens Gauze & Sveshnikova, 1986
+Streptomyces albus subsp. pathocidicus Nagatsu et al., 1962
+Cellulomonas biazotea (Kellerman et al., 1913) Bergey et al., 1923
+Streptosporangium viridialbum Nonomura & Ohara, 1960
+Oceanospirillum beijerinckii subsp. pelagicum (Terasaki, 1973) Pot et al., 1989
+Shewanella putrefaciens C
+Streptomyces roseoviridis (Preobrazhenskaya, 1957) Pridham et al., 1958
+Sporichthya polymorpha Lechevalier et al., 1968
+Micromonospora olivasterospora Kawamoto et al., 1983
+Saccharothrix syringae (Gauze & Sveshnikova, 1985) Grund & Kroppenstedt, 1990
+Streptomyces paradoxus Goodfellow et al., 1986
+Streptomyces aureoverticillatus (Krassilnikov & Yuan, 1960) Pridham, 1970
+Flexibacter flexilis Soriano, 1945
+Streptomyces malachitofuscus
+Bordetella bronchiseptica
+Xanthobacter flavus Malik & Claus, 1979
+Microbacterium dextranolyticum Yokota et al., 1993
+Streptomyces pristinaespiralis
+Pseudomonas mendocina Palleroni, 1970
+Streptomyces subrutilus_A
+Streptomyces intermedius (Krüger, 1904) Waksman, 1953
+Brochothrix campestris Talon et al., 1988
+Thermoactinomyces dichotomicus (Krasil'nikov & Agre, 1964) Cross & Goodfellow, 1973
+Oceanospirillum pusillum (Terasaki, 1973) Terasaki, 1979
+Dactylosporangium aurantiacum Thiemann et al., 1967
+Catenuloplanes castaneus Tamura et al., 1995
+Rhizobium galegae Lindström, 1989
+Bacillus lautus Nakamura, 1984
+Sphaerotilus natans Kützing, 1833
+Streptomyces lilacinus (Nakazawa et al., 1956) Witt & Stackebrandt, 1991
+Streptomyces racemochromogenes Sugai, 1956
+Bacillus amyloliquefaciens
+Streptosporangium Couch, 1955
+Streptomyces massasporeus Shinobu & Kawato, 1959
+Streptomyces setae (Omura et al., 1983) Wellington et al., 1992
+Actinoplanes humidus Goodfellow et al., 1990
+Saccharothrix australiensis Labeda et al., 1984
+Microtetraspora turkmeniaca (Terekhova et al., 1987) Kroppenstedt et al., 1991
+Enterococcus casseliflavus
+Sphingomonas capsulata (Leifson, 1962) Yabuuchi et al., 1990
+Nocardia flavorosea A
+Corynebacterium matruchotii (Mendel, 1919) Collins, 1983
+Sphingobacterium Yabuuchi et al., 1983
+Aeromonas salmonicida subsp. masoucida Kimura, 1969
+Nocardia brevicatena (Lechevalier et al., 1961) Goodfellow & Pirouz, 1982
+Actinoplanes durhamensis Goodfellow et al., 1990
+Actinoplanes globisporus (Thiemann, 1967) Stackebrandt & Kroppenstedt, 1988
+Aquaspirillum serpens (Müller, 1786) Hylemon et al., 1973
+Thiobacillus thiooxidans Waksman & Joffe, 1922
+Streptomyces clavuligerus Higgens & Kastner, 1971
+Streptomyces narbonensis Corbaz et al., 1955
+Bacillus formosus Shida et al., 1995
+Flavobacterium Bergey et al., 1923
+Listonella pelagia (Baumann et al., 1971) MacDonell & Colwell, 1986
+Aureobacterium trichothecenolyticum Yokota et al., 1993
+Streptomyces flavofungini
+Sphingobacterium multivorum (Holmes et al., 1981) Yabuuchi et al., 1983
+Jonesia denitrificans (Prévot, 1961) Rocourt et al., 1987
+Aquaspirillum itersonii subsp. itersonii
+Aquaspirillum dispar Hylemon et al., 1973
+Streptomyces ipomoeae (Person & Martin, 1940) Waksman & Henrici, 1948
+Streptomyces gancidicus
+Actinopolyspora halophila Gochnauer et al., 1975
+Sphingobacterium thalpophilum (Holmes et al., 1983) Takeuchi & Yokota, 1993
+Streptomyces parvisporogenes (Locci et al., 1969) Witt & Stackebrandt, 1991
+Streptoverticillium salmonis (Baldacci et al., 1966) Locci et al., 1969
+Streptomyces bikiniensis Johnstone & Waksman, 1947
+Flexibacter sancti Lewin, 1969
+Bacillus mojavensis Roberts et al., 1994
+Aureobacterium liquefaciens Collins et al., 1983
+Clostridium sporogenes (Metchnikoff, 1908) Bergey et al., 1923
+Bacillus ehimensis Kuroshima et al., 1996
+Streptomyces champavatii Uma & Narasimha Rao, 1959
+Streptomyces hygroscopicus (Jensen, 1931) Waksman & Henrici, 1948
+Actinoplanes palleronii Goodfellow et al., 1990
+Brevibacterium oxydans Chatelain & Second, 1966
+Vibrio natriegens (Payne et al., 1961) Baumann et al., 1981
+Brevundimonas vesicularis_A
+Streptomyces albidoflavus (Rossi Doria, 1891) Waksman & Henrici, 1948
+Amycolatopsis azurea (Omura et al., 1983) Henssen et al., 1987
+Xanthomonas oryzae
+Oceanospirillum linum (Williams & Rittenberg, 1957) Hylemon et al., 1973
+Streptomyces alboviridis (Duche, 1934) Pridham et al., 1958
+Streptomyces blastmyceticus (Watanabe et al., 1957) Witt & Stackebrandt, 1991
+Micromonospora Ørskov, 1923
+Actinoplanes consettensis Goodfellow et al., 1990
+Sulfolobus shibatae Grogan et al., 1991
+Aquaspirillum psychrophilum (Terasaki, 1973) Terasaki, 1979
+Streptomyces ederensis Wallhäusser et al., 1966
+Streptomyces badius
+Micromonospora brunnea Sveshnikova et al., 1969
+Leuconostoc lactis A
+Deinococcus proteolyticus
+Thiobacillus intermedius London, 1963
+Halomonas subglaciescola Franzmann et al., 1987
+Streptomyces griseofuscus Sakamoto et al., 1962
+Pseudomonas alcaligenes Monias, 1928
+Streptomyces lavendofoliae (Kuchaeva et al., 1961) Pridham, 1970
+Streptomyces diastaticus subsp. ardesiacus (Baldacci et al., 1955) Pridham et al., 1958
+Actinomadura viridis (Nonomura & Ohara, 1971) Miyadoh et al., 1989
+Pseudonocardia compacta Henssen et al., 1983
+Acidiphilium cryptum Harrison, 1981
+Streptomyces lavendulae subsp. grasserius (Kuchaeva et al., 1961) Pridham, 1970
+Microbacterium aurum Yokota et al., 1993
+Mycoplasma arthritidis (Sabin, 1941) Freundt, 1955
+Lactobacillus homohiochii Kitahara et al., 1957
+Gordona amarae (Lechevalier & Lechevalier, 1974) Klatte et al., 1994
+Streptomyces hygroscopicus subsp. ossamyceticus Schmitz et al., 1965
+Streptomyces orinoci (Cassinelli et al., 1967) Witt & Stackebrandt, 1991
+Actinomadura madurae (Vincent, 1894) Lechevalier & Lechevalier, 1970
+Planotetraspora mira Runmao et al., 1993
+Brevibacterium stationis (ZoBell & Upham, 1944) Breed, 1953
+Serratia rubidaea (Stapp, 1940) Ewing et al., 1973
+Streptomyces aurantiogriseus (Preobrazhenskaya, 1957) Pridham et al., 1958
+Thermoactinomyces intermedius
+Nocardia transvalensis_A
+Dactylosporangium thailandense Thiemann et al., 1967
+Microtetraspora polychroma (Galatenko et al., 1987) Kroppenstedt et al., 1991
+Kineosporia aurantiaca Pagani & Parenti, 1978
+Streptomyces spitsbergensis Wieczorek et al., 1993
+Bacillus cohnii Spanka & Fritze, 1993
+Streptomyces filamentosus Okami & Umezawa, 1953
+Streptomyces arenae Pridham et al., 1958
+Microtetraspora angiospora (Zhukova et al., 1968) Kroppenstedt et al., 1991
+Flavobacterium devorans (Zimmermann, 1890) Bergey et al., 1923
+Haloferax volcanii (Mullakhanbhai & Larsen, 1975) Torreblanca et al., 1986
+Bacillus pumilus_N
+Serratia marcescens_J
+Thermoplasma acidophilum Darland et al., 1970
+Streptomyces acrimycini (Preobrazhenskaya et al., 1957) Pridham et al., 1958
+Streptomyces yerevanensis Goodfellow et al., 1986
+Streptomyces thermoviolaceus subsp. thermoviolaceus
+Geodermatophilus obscurus_B
+Streptomyces coeruleorubidus (Preobrazhenskaya, 1957) Pridham et al., 1958
+Acetobacter liquefaciens (Asai, 1935) Gossele et al., 1983
+Streptomyces prasinopilosus Ettlinger et al., 1958
+Amycolatopsis sulphurea Lechevalier et al., 1986
+Actinomadura pelletieri (Laveran, 1906) Lechevalier & Lechevalier, 1970
+Klebsiella terrigena
+Bacillus glucanolyticus Alexander & Priest, 1989
+Acinetobacter calcoaceticus_D
+Dactylosporangium vinaceum Shomura et al., 1983
+Cytophaga johnsonae Stanier, 1947
+Flavobacterium branchiophilum Wakabayashi et al., 1989
+Streptomyces bicolor
+Pseudomonas putida (Trevisan, 1889) Migula, 1895
+Streptomyces rishiriensis Kawaguchi et al., 1965
+Brachybacterium Collins et al., 1988
+Mycoplasma pneumoniae Somerson et al., 1963
+Flavobacterium mizutaii (Yabuuchi et al., 1983) Holmes et al., 1988
+Gluconobacter cerinus
+Streptomyces rubiginosohelvolus (Kudrina, 1957) Pridham et al., 1958
+Enterococcus hirae Farrow & Collins, 1985
+Moraxella atlantae Bøvre et al., 1976
+Actinoplanes derwentensis Goodfellow et al., 1990
+Saccharothrix flava (Gauze et al., 1974) Grund & Kroppenstedt, 1990
+Saccharothrix mutabilis subsp. capreolus
+Proteus rettgeri (Hadley et al., 1918) Rustigian & Stuart, 1943
+Serratia grimesii Grimont et al., 1983
+Streptomyces tubercidicus Nakamura, 1961
+Streptomyces glaucosporus
+Streptomyces fradiae (Waksman & Curtis, 1916) Waksman & Henrici, 1948
+Streptomyces diastaticus subsp. diastaticus
+Actinokineospora inagensis Tamura et al., 1995
+Actinomadura livida Lavrova & Preobrazhenskaya, 1975
+Cytophaga hutchinsonii Winogradsky, 1929
+Streptomyces lomondensis Johnson & Dietz, 1969
+Streptomyces nojiriensis Ishida et al., 1967
+Streptomyces fervens subsp. melrosporus (Mason et al., 1965) Witt & Stackebrandt, 1991
+Streptomyces arabicus Shibata et al., 1957
+Pilimelia terevasa Kane, 1966
+Microtetraspora recticatena (Terekhova et al., 1987) Kroppenstedt et al., 1991
+Streptomyces sclerotialus_B
+Streptomyces coelicolor (Müller, 1908) Waksman & Henrici, 1948
+Streptomyces spiralis (Falcao de Morais, 1970) Goodfellow et al., 1986
+Streptomyces cinereus (Cross et al., 1963) Goodfellow et al., 1986
+Catellatospora tsunoense Asano et al., 1989
+Actinobispora yunnanensis Jiang et al., 1991
+Saccharomonospora cyanea Runmao et al., 1988
+Atopobium rimae (Olsen et al., 1991) Collins & Wallbanks, 1993
+Streptomyces lavenduligriseus
+Streptomyces psammoticus Virgilio & Hengeller, 1960
+Agromyces Gledhill & Casida, 1969
+Rhodococcus marinonascens Helmke & Weyland, 1984
+Bacillus smithii Nakamura et al., 1988
+Bdellovibrio bacteriovorus_E
+Streptomyces griseus subsp. alpha (Ciferri, 1927) Pridham, 1970
+Enterococcus faecium (Orla-Jensen, 1919) Schleifer & Kilpper-Bälz, 1984
+Streptomyces colombiensis Pridham et al., 1958
+Aquaspirillum peregrinum subsp. integrum (Terasaki, 1973) Terasaki, 1979
+Glycomyces tenuis Evtushenko et al., 1991
+Saccharopolyspora taberi (Labeda, 1987) Korn-Wendisch et al., 1989
+Amycolatopsis alba Mertz & Yao, 1993
+Agrobacterium agile Ahrens, 1968
+Bacillus flexus
+Acidiphilium Harrison, 1981
+Streptomyces macrosporus
+Nocardia salmonicida Isik et al., 1999
+Streptomyces rutgersensis subsp. rutgersensis
+Rarobacter faecitabidus Yamamoto et al., 1988
+Rhodococcus rhodochrous (Zopf, 1891) Tsukamura, 1974
+Aquaspirillum anulus (Williams & Rittenberg, 1957) Hylemon et al., 1973
+Citrobacter amalonaticus (Young et al., 1971) Brenner & Farmer, 1982
+Streptomyces albofaciens Thirumalachar & Bhatt, 1960
+Streptomyces kurssanovii (Preobrazhenskaya et al., 1957) Pridham et al., 1958
+Sinorhizobium fredii_A
+Catellatospora Lee & Hah, 2002
+Oceanospirillum beijerinckii subsp. beijerinckii
+Actinoplanes nipponensis Wink et al., 2014
+Streptomyces fragilis Anderson et al., 1956
+Carnobacterium funditum Franzmann et al., 1993
+Streptomyces cinereospinus Terekhova, Preobrazhenskaya & Gause, 1986
+Bacillus thuringiensis Berliner, 1915
+Streptomyces geysiriensis
+Streptomyces phaeofaciens Maeda et al., 1952
+Streptomyces kifunensis Nakagaito et al., 1993
+Actinoplanes ianthinogenes
+Streptosporangium fragile Shearer et al., 1983
+Saccharothrix mutabilis subsp. mutabilis
+Streptomyces azureus
+Streptomyces atroolivaceus (Preobrazhenskaya et al., 1957) Pridham et al., 1958
+Actinomadura Lechevalier & Lechevalier, 1970
+Sphingomonas parapaucimobilis Yabuuchi et al., 1990
+Oceanospirillum maris subsp. hiroshimense (Terasaki, 1973) Pot et al., 1989
+Micromonospora chalcea (Foulerton, 1905) Ørskov, 1923
+Actinomadura luteofluorescens (Shinobu, 1962) Preobrazhenskaya et al., 1975
+Exiguobacterium acetylicum (Levine & Soppeland, 1926) Farrow et al., 1994
+Sporolactobacillus inulinus (Kitahara & Suzuki, 1963) Kitahara & Lai, 1967
+Nocardioides flavus Wang et al., 2016
+Agrobacterium ferrugineum
+Streptomyces albovinaceus (Kudrina, 1957) Pridham et al., 1958
+Streptomyces aminophilus Foster, 1961
+Agromyces fucosus subsp. hippuratus Zgurskaya et al., 1992
+Streptomyces roseolus (Preobrazhenskaya & Sveshnikova, 1957) Pridham et al., 1958
+Lactobacillus pentosus
+Streptomyces baldaccii (Farina & Locci, 1966) Witt & Stackebrandt, 1991
+Streptomyces somaliensis_A
+Flexibacter elegans Reichenbach, 1969
+Bacillus firmus Bredemann & Werner, 1933
+Streptomyces achromogenes subsp. achromogenes
+Streptomyces abikoensis (Umezawa et al., 1951) Witt & Stackebrandt, 1991
+Brachybacterium faecium Collins et al., 1988
+Rhizomonas suberifaciens van Bruggen et al., 1990
+Rhizobium etli B
+Streptomyces naganishii Yamaguchi & Saburi, 1955
+Micromonospora carbonacea subsp. aurantiaca Luedemann & Brodsky, 1965
+Thermoanaerobacter Wiegel & Ljungdahl, 1982
+Pediococcus damnosus Claussen, 1903
+Paracoccus denitrificans_B
+Natronobacterium pharaonis (Soliman & Trüper, 1983) Tindall et al., 1984
+Thiobacillus ferrooxidans Temple & Colmer, 1951
+Sulfolobus metallicus Huber & Stetter, 1992
+Streptomyces setonii (Millard & Burr, 1926) Waksman, 1953
+Arthrobacter sulfureus Stackebrandt et al., 1984
+Corynebacterium pilosum Yanagawa & Honda, 1978
+Actinomadura macra
+Streptoverticillium ardum (De Boer et al., 1961) Locci et al., 1969
+Streptomyces violaceorectus (Ryabova & Preobrazhenskaya, 1957) Pridham et al., 1958
+Kocuria varians (Migula, 1900) Stackebrandt et al., 1995
+Streptomyces sparsogenes Owen et al., 1963
+Streptomyces cinereoruber subsp. cinereoruber
+Streptomyces kishiwadensis (Shinobu & Kayamura, 1964) Witt & Stackebrandt, 1991
+Streptomyces paracochleatus Nakagaito et al., 1993
+Brachybacterium paraconglomeratum Takeuchi et al., 1995
+Methylobacterium organophilum Patt et al., 1976
+Oceanospirillum japonicum (Watanabe, 1959) Hylemon et al., 1973
+Lactobacillus Beijerinck, 1901
+Rhodococcus ruber (Kruse, 1896) Goodfellow & Alderson, 1977
+Streptomyces violaceusniger_A
+Sporosarcina ureae_A
+Azorhizobium caulinodans Dreyfus et al., 1988
+Rhodobacter sphaeroides (van Niel, 1944) Imhoff et al., 1984
+Streptomyces inusitatus Hasegawa et al., 1978
+Actinoplanes regularis (Couch, 1963) Stackebrandt & Kroppenstedt, 1988
+Microbacterium imperiale (Steinhaus, 1941) Collins et al., 1983
+Microbispora rosea Nonomura & Ohara, 1957
+Streptomyces violarus
+Pediococcus parvulus Gunther & White, 1961
+Sphingomonas Yabuuchi et al., 1990
+Streptomyces lateritius (Sveshnikova, 1957) Pridham et al., 1958
+Pseudomonas nitroreducens_B
+Flavobacterium aquatile (Frankland & Frankland, 1889) Bergey et al., 1923
+Aquaspirillum polymorphum (Williams & Rittenberg, 1957) Hylemon et al., 1973
+Streptomyces celluloflavus Nishimura et al., 1953
+Streptomyces canarius
+Cytophaga succinicans Reichenbach, 1989
+Bacillus megaterium de Bary, 1884
+Nocardiopsis dassonvillei subsp. dassonvillei
+Streptomyces alni Liu et al., 2009
+Streptomyces katrae_B
+Aquaspirillum putridiconchylium (Terasaki, 1961) Hylemon et al., 1973
+Streptomyces asterosporus
+Brevibacterium Breed, 1953
+Lactobacillus animalis Dent & Williams, 1983
+Sphingobacterium spiritivorum A
+Streptomyces canus_C
+Ochrobactrum Holmes et al., 1988
+Actinoplanes utahensis Couch, 1963
+Agromyces cerinus subsp. nitratus Zgurskaya et al., 1992
+Brevibacterium linens (Wolff, 1910) Breed, 1953
+Streptomyces omiyaensis Umezawa & Okami, 1950
+Pseudonocardia hydrocarbonoxydans (Nolof & Hirsch, 1962) Warwick et al., 1994
+Microtetraspora africana (Preobrazhenskaya & Sveshnikova, 1974) Kroppenstedt et al., 1991
+Streptomyces distallicus (Locci et al., 1969) Witt & Stackebrandt, 1991
+Planopolyspora crispa Petrolini et al., 1993
+Streptosporangium longisporum Schäfer, 1969
+Rhodococcus globerulus Goodfellow et al., 1985
+Clavibacter michiganense subsp. sepedonicum (Spieckermann & Kotthoff, 1914) Davis et al., 1984
+Nocardia nova_B
+Pseudomonas fragi (Eichholz, 1902) Gruber, 1905
+Streptomyces rubrogriseus
+Streptomyces alboniger Porter et al., 1952
+Metallosphaera sedula Huber et al., 1989
+Dactylosporangium Thiemann et al., 1967
+Corynebacterium striatum (Chester, 1901) Eberson, 1918
+Thermomonospora formosensis Hasegawa et al., 1986
+Streptomyces atratus_B
+Hyphomicrobium indicum Johnson & Weisrock, 1969
+Streptomyces filipinensis Ammann et al., 1955
+Streptomyces luteogriseus Schmitz et al., 1964
+Streptomyces umbrinus (Sveshnikova, 1957) Pridham et al., 1958
+Arthrobacter ramosus Jensen, 1960
+Streptomyces saraceticus Berger et al., 1962
+Streptomyces griseocarneus A
+Halomonas meridiana
+Dactylosporangium fulvum Shomura et al., 1986
+Saccharothrix cryophilis Labeda & Lechevalier, 1989
+Corynebacterium ammoniagenes (Cooke & Keith, 1927) Collins, 1987
+Aureobacterium keratanolyticum Yokota et al., 1993
+Planococcus kocurii Hao & Komagata, 1986
+Streptomyces viridis Kim et al., 2013
+Aeromonas punctata subsp. punctata
+Micromonospora nigra (Weinstein et al., 1968) Kasai et al., 2000
+Microtetraspora Thiemann et al., 1968
+Klebsiella planticola
+Corynebacterium minutissimum A
+Streptomyces griseoverticillatus (Shinobu & Shimada, 1962) Witt & Stackebrandt, 1991
+Thermomonospora alba (Locci et al., 1967) Cross & Goodfellow, 1973
+Streptomyces cyaneofuscatus (Kudrina, 1957) Pridham et al., 1958
+Streptomyces azaticus Nakagaito et al., 1993
+Streptomyces fulvoviolaceus
+Streptomyces ghanaensis Wallhäusser et al., 1966
+Streptomyces cinnamoneus subsp. lanosus (Thirumalachar, 1968) Witt & Stackebrandt, 1991
+Streptomyces cystargineus (Kusakabe & Isono, 1992) Nakagaito et al., 1993
+Tetragenococcus halophilus (Mees, 1934) Collins et al., 1993
+Streptomyces parvulus Waksman & Gregory, 1954
+Pseudomonas stutzeri (Lehmann & Neumann, 1896) Sijderius, 1946
+Streptomyces aurantiacus A
+Streptomyces phaeochromogenes (Conn, 1917) Waksman, 1957
+Streptomyces roseofulvus (Preobrazhenskaya, 1957) Pridham et al., 1958
+Streptomyces achromogenes Okami & Umezawa, 1953
+Rathayibacter tritici (Carlson & Vidaver, 1982) Zgurskaya et al., 1993
+Nocardia uniformis
+Blastobacter natatorius Sly, 1985
+Streptomyces olivoviridis (Kuchaeva et al., 1960) Pridham, 1970
+Streptomyces plicatus
+Streptomyces poonensis (Thirumalachar, 1960) Pridham, 1970
+Actinomadura nitritigenes Lipski & Altendorf, 1995
+Thermoactinomyces candidus Kurup et al., 1975
+Chryseobacterium gleum (Holmes et al., 1984) Vandamme et al., 1994
+Promicromonospora sukumoe_B
+Aquaspirillum delicatum (Leifson, 1962) Hylemon et al., 1973
+Streptomyces spheroides Wallick et al., 1956
+Streptomyces coelescens
+Streptomyces olivoreticuli subsp. cellulophilus (Locci & Schofield, 1989) Witt & Stackebrandt, 1991
+Curtobacterium Yamada & Komagata, 1972
+Lactococcus lactis subsp. cremoris (Orla-Jensen, 1919) Schleifer et al., 1986
+Proteus inconstans (Ornstein, 1920) Shaw & Clarke, 1955
+Streptomyces griseus G
+Streptomyces natalensis
+Agrobacterium Conn, 1942
+Streptomyces noursei Brown et al., 1953
+Streptomyces parvus (Krainsky, 1914) Waksman & Henrici, 1948
+Streptomyces roseodiastaticus (Duche, 1934) Waksman, 1953
+Actinoplanes campanulatus (Couch, 1963) Stackebrandt & Kroppenstedt, 1988
+Microbispora bispora (Henssen, 1957) Lechevalier, 1965
+Streptococcus mutans Clarke, 1924
+Deinococcus radiodurans
+Alcaligenes xylosoxidans (Yabuuchi & Yano, 1981) Kiredjian et al., 1986
+Rhodospirillum rubrum (Esmarch, 1887) Molisch, 1907
+Streptomyces longwoodensis Prosser & Palleroni, 1981
+Streptomyces matensis
+Glycomyces rutgersensis Labeda et al., 1985
+Catellatospora ferruginea Asano & Kawamoto, 1986
+Excellospora Agre & Guzeva, 1975
+Streptomyces ehimensis (Shibata et al., 1954) Witt & Stackebrandt, 1991
+Streptomyces gougerotii
+Streptomyces erythrogriseus Falcao de Morais & Dalia Maia, 1959
+Aureobacterium terrae Yokota et al., 1993
+Brevibacterium epidermidis Collins et al., 1983
+Roseobacter denitrificans Shiba, 1991
+Streptomyces purpurascens
+Pseudonocardia saturnea
+Sphingobacterium piscium Takeuchi & Yokota, 1993
+Streptomyces viridochromogenes_B
+Halobacterium cutirubrum (Lochhead, 1934) Elazari-Volcani, 1957
+Streptomyces griseus subsp. solvifaciens Pridham, 1970
+Streptomyces aureocirculatus (Krassilnikov & Yuan, 1965) Pridham, 1970
+Micromonospora purpurea Luedemann & Brodsky, 1964
+Aureobacterium terregens (Lochhead & Burton, 1953) Collins et al., 1983
+Mycoplasma gallisepticum Edward & Kanarek, 1960
+Microbacterium laevaniformans
+Arthrobacter nicotianae Giovannozzi-Sermanni, 1959
+Vibrio parahaemolyticus (Fujino et al., 1951) Sakazaki et al., 1963
+Streptomyces nashvillensis McVeigh & Reyes, 1961
+Streptomyces viridobrunneus
+Arthrobacter ureafaciens (Krebs & Eggleston, 1939) Clark, 1955
+Streptomyces aureus_B
+Streptomyces yokosukanensis Nakamura, 1961
+Arthrobacter oxydans Sguros, 1954
+Aureobacterium arabinogalactanolyticum Yokota et al., 1993
+Mycoplasma maculosum Edward, 1955
+Brevibacterium incertum (Steinhaus, 1941) Breed, 1953
+Aquaspirillum giesbergeri (Williams & Rittenberg, 1957) Hylemon et al., 1973
+Mycoplana ramosa Urakami et al., 1990
+Streptomyces labedae Lacey, 1987
+Microbacterium Orla-Jensen, 1919
+Psychrobacter immobilis_E
+Streptomyces niveus_A
+Streptomyces candidus
+Actinoplanes brasiliensis Thiemann et al., 1969
+Sphingomonas macrogoltabidus Takeuchi et al., 1993
+Streptomyces cinereoruber subsp. fructofermentans Corbaz et al., 1957
+Streptomyces flavotricini (Preobrazhenskaya & Sveshnikova, 1957) Pridham et al., 1958
+Paenibacillus macerans (Schardinger, 1905) Ash et al., 1994
+Streptomyces cellostaticus Hamada, 1958
+Streptomyces niger (Thirumalachar, 1955) Goodfellow et al., 1986
+Nocardia mexicana Rodríguez-Nava et al., 2006
+Microtetraspora niveoalba Nonomura & Ohara, 1971
+Micromonospora echinospora subsp. pallida Luedemann & Brodsky, 1964
+Micromonospora rhodorangea Wagman et al., 1974
+Actinomadura echinospora (Nonomura & Ohara, 1971) Kroppenstedt et al., 1991
+Streptomyces exfoliatus_B
+Aquaspirillum sinuosum (Williams & Rittenberg, 1957) Hylemon et al., 1973
+Streptomyces humiferus
+Streptomyces avidinii Stapley et al., 1964
+Streptomyces lincolnensis Mason et al., 1963
+Actinosynnema pretiosum subsp. pretiosum
+Streptomyces phaeopurpureus Shinobu, 1957
+Streptomyces thermolilacinus
+Aeromonas punctata subsp. caviae (Scherago, 1936) Schubert, 1964
+Micromonospora coerulea Jensen, 1932
+Streptomyces vastus Szabo & Marton, 1958
+Streptomyces zaomyceticus Hinuma, 1954
+Streptomyces fimbriatus (Millard & Burr, 1926) Waksman & Lechevalier, 1953
+Rahnella aquatilis Izard et al., 1981
+Aeromonas hydrophila subsp. anaerogenes Schubert, 1964
+Promicromonospora citrea Krassilnikov et al., 1961
+Lactobacillus paracasei subsp. paracasei
+Streptomyces rutgersensis subsp. castelarensis Cercós, 1954
+Streptomyces mutabilis (Preobrazhenskaya & Ryabova, 1957) Pridham et al., 1958
+Arthrobacter histidinolovorans Adams, 1954
+Streptomyces vitaminophilus (Shomura et al., 1983) Goodfellow et al., 1986
+Vibrio aestuarianus Tison & Seidler, 1983
+Curtobacterium flaccumfaciens_B
+Streptomyces pseudogriseolus Okami & Umezawa, 1955
+Actinokineospora diospyrosa Tamura et al., 1995
+Bacillus badius Batchelor, 1919
+Ochrobactrum anthropi Holmes et al., 1988
+Tsukamurella wratislaviensis Goodfellow et al., 1995
+Luteococcus japonicus Tamura et al., 1994
+Cytophaga Winogradsky, 1929
+Vibrio campbellii (Baumann et al., 1971) Baumann et al., 1981
+Streptomyces glaucescens (Preobrazhenskaya, 1957) Pridham et al., 1958
+Pediococcus urinaeequi
+Streptomyces albosporeus subsp. albosporeus
+Aquaspirillum autotrophicum Aragno & Schlegel, 1978
+Mycoplasma lipophilum Del Giudice et al., 1974
+Streptococcus salivarius subsp. thermophilus (Orla-Jensen, 1919) Farrow & Collins, 1984
+Bacillus alcalophilus Vedder, 1934
+Streptomyces rameus Shibata, 1959
+Streptomyces xanthophaeus Lindenbein, 1952
+Paenibacillus pabuli (Nakamura, 1984) Ash et al., 1994
+Hyphomicrobium methylovorum Izumi et al., 1983
+Streptomyces helvaticus (Krassilnikov et al., 1965) Pridham, 1970
+Actinopolyspora Gochnauer et al., 1975
+Bacteroides vulgatus Eggerth & Gagnon, 1933
+Streptomyces baarnensis Pridham et al., 1958
+Pantoea agglomerans (Beijerinck, 1888) Gavini et al., 1989
+Pseudomonas aeruginosa_A
+Streptomyces flavogriseus (Duche, 1934) Waksman & Lechevalier, 1953
+Aureobacterium schleiferi Yokota et al., 1993
+Desulfotomaculum nigrificans (Werkman & Weaver, 1927) Campbell & Postgate, 1965
+Bacillus laterosporus Laubach, 1916
+Staphylococcus Rosenbach, 1884
+Streptomyces lusitanus Villax, 1963
+Leuconostoc mesenteroides subsp. dextranicum (Beijerinck, 1912) Garvie, 1983
+Bacillus peoriae Montefusco et al., 1993
+Oceanospirillum jannaschii Bowditch et al., 1984
+Streptomyces rubiginosus
+Streptomyces melanosporofaciens
+Bacillus parabrevis Takagi et al., 1993
+Halomonas halodurans Hebert & Vreeland, 1987
+Streptomyces albospinus Wang et al., 1966
+Streptomyces mauvecolor Okami & Umezawa, 1961
+Streptomyces hygroscopicus subsp. glebosus Ohmori et al., 1962
+Streptomyces longispororuber Waksman, 1953
+Actinoplanes italicus Beretta, 1973
+Arthrobacter uratoxydans Stackebrandt et al., 1984
+Agromyces ramosus Gledhill & Casida, 1969
+Streptomyces hygroscopicus subsp. hygroscopicus
+Aquaspirillum metamorphum (Terasaki, 1961) Hylemon et al., 1973
+Arthrobacter pascens Lochhead & Burton, 1953
+Microtetraspora helvata (Nonomura & Ohara, 1971) Kroppenstedt et al., 1991
+Agromyces cerinus subsp. cerinus
+Arthrobacter Conn & Dimmick, 1947
+Streptomyces chattanoogensis Burns & Holtman, 1959
+Propionibacterium granulosum (Prévot, 1938) Moore & Holdeman, 1970
+Alcaligenes faecalis_C
+Magnetospirillum gryphiswaldense Schleifer et al., 1992
+Streptomyces aburaviensis Nishimura et al., 1957
+Catenuloplanes japonicus Yokota et al., 1993
+Dolosigranulum pigrum Aguirre et al., 1994
+Pediococcus acidilactici_A
+Deinococcus radiophilus
+Streptomyces endus Anderson & Gottlieb, 1952
+Streptomyces thermonitrificans Desai & Dhala, 1967
+Actinosynnema pretiosum subsp. auranticum Hasegawa et al., 1983
+Streptomyces collinus_A
+Sphingomonas yanoikuyae Yabuuchi et al., 1990
+Streptomyces mashuensis (Sawazaki et al., 1955) Witt & Stackebrandt, 1991
+Streptomyces daghestanicus
+Streptomyces lanatus Frommer, 1959
+Streptomyces noboritoensis Isono et al., 1957
+Chryseobacterium indologenes_A
+Streptomyces mediolani Arcamone et al., 1969
+Thermoactinomyces thalpophilus Lacey & Cross, 1989
+Staphylococcus epidermidis (Winslow & Winslow, 1908) Evans, 1916
+Bacillus niacini Nagel & Andreesen, 1991
+Arthrobacter agilis (Ali-Cohen, 1889) Koch et al., 1995
+Saccharothrix coeruleoviolacea (Preobrazhenskaya & Therekova, 1987) Kroppenstedt et al., 1991
+Streptomyces griseoruber Yamaguchi & Saburi, 1955
+Microtetraspora fastidiosa (Soina et al., 1975) Kroppenstedt et al., 1991
+Weissella viridescens_A
+Streptomyces albosporeus subsp. labilomyceticus Okami et al., 1963
+Streptomyces fulvissimus
+Actinoplanes Couch, 1950
+Cellulomonas gelida (Kellerman et al., 1913) Bergey et al., 1923
+Nocardiopsis listeri Grund & Kroppenstedt, 1990
+Dietzia maris (Nesterenko et al., 1982) Rainey et al., 1995
+Zymomonas mobilis subsp. mobilis
+Thermoplasma volcanium Segerer et al., 1988
+Sphingomonas adhaesiva Yabuuchi et al., 1990
+Microtetraspora roseola (Lavrova & Preobrazhenskaya, 1975) Kroppenstedt et al., 1991
+Mycoplasma bovigenitalium Freundt, 1955
+Bacillus chitinolyticus Kuroshima et al., 1996
+Helcococcus kunzii Collins et al., 1993
+Zoogloea ramigera Itzigsohn, 1868
+Cytophaga flevensis Meulen et al., 1974
+Proteus mirabilis B
+Erwinia amylovora (Burrill, 1882) Winslow et al., 1920
+Pseudonocardia alni (Evtushenko et al., 1989) Warwick et al., 1994
+Streptomyces levis Sveshnikova, 1986
+Actinomadura verrucosospora Nonomura & Ohara, 1971
+Streptomyces cattleya
+Sinorhizobium meliloti_A
+Streptomyces goshikiensis Niida, 1966
+Streptomyces griseobrunneus Waksman, 1961
+Alicyclobacillus cycloheptanicus (Deinhard et al., 1988) Wisotzkey et al., 1992
+Morganella morganii subsp. morganii
+Bacillus stearothermophilus Donk, 1920
+Streptomyces toxytricini (Preobrazhenskaya & Sveshnikova, 1957) Pridham et al., 1958
+Streptomyces almquistii (Duche, 1934) Pridham et al., 1958
+Aerococcus viridans_B
+Sulfolobus acidocaldarius A
+Streptomyces caelestis_A
+Streptomyces limosus Lindenbein, 1952
+Actinomadura rugatobispora Miyadoh et al., 1991
+Bacillus lentus Gibson, 1935
+Streptomyces odorifer (Rullmann, 1895) Waksman, 1953
+Streptomyces alanosinicus Thiemann & Beretta, 1966
+Catenuloplanes atrovinosus Tamura et al., 1995
+Streptomyces spororaveus
+Streptoalloteichus hindustanus Tomita et al., 1987
+Streptosporangium pseudovulgare Nonomura & Ohara, 1969
+Microtetraspora fusca Thiemann et al., 1968
+Lactobacillus malefermentans
+Enterobacter cloacae_M
+Oceanospirillum minutulum (Watanabe, 1959) Hylemon et al., 1973
+Streptomyces anandii Batra & Bajaj, 1965
+Streptomyces roseoflavus Arai, 1951
+Streptomyces viridosporus Pridham et al., 1958
+Herbidospora cretacea Kudo et al., 1993
+Mycoplasma hominis (Freundt, 1953) Edward, 1955
+Mycoplasma gallinarum Freundt, 1955
+Streptomyces sviceus
+Agrobacterium meteori Rüger & Höfle, 1992
+Magnetospirillum magnetotacticum (Maratea & Blakemore, 1981) Schleifer et al., 1992
+Microtetraspora pusilla (Nonomura & Ohara, 1971) Kroppenstedt et al., 1991
+Alcaligenes Castellani & Chalmers, 1919
+Agrobacterium rubi (Hildebrand, 1940) Starr & Weiss, 1943
+Sphingomonas paucimobilis (Holmes et al., 1977) Yabuuchi et al., 1990
+Nocardioides Prauser, 1976
+Arthrobacter protophormiae (Lysenko, 1959) Stackebrandt et al., 1984
+Actinokineospora terrae Tamura et al., 1995
+Clostridium cylindrosporum
+Exiguobacterium aurantiacum A
+Streptomyces avermitilis
+Streptomyces toyocaensis
+Catellatospora citrea subsp. citrea
+Brachybacterium nesterenkovii Gvozdyak et al., 1992
+Gluconobacter asaii Mason & Claus, 1989
+Streptomyces termitum Duche et al., 1951
+Streptomyces nigrifaciens Waksman, 1961
+Actinoplanes missouriensis Couch, 1963
+Myxococcus xanthus_A
+Sphingomonas terrae Takeuchi et al., 1993
+Streptomyces laurentii Trejo et al., 1979
+Corynebacterium renale (Migula, 1900) Ernst, 1906
+Kurthia zopfii (Kurth, 1883) Trevisan, 1885
+Micrococcus lylae Kloos et al., 1974
+Gluconobacter oxydans subsp. suboxydans (Kluyver & de Leeuw, 1924) De Ley & Frateur, 1974
+Streptomyces fervens (Baldacci & Locci, 1974) Witt & Stackebrandt, 1991
+Thermoactinomyces sacchari Lacey, 1971
+Streptomyces prasinosporus Tresner et al., 1966
+Streptomyces carpaticus Maksimova & Terekhova, 1986
+Streptomyces floridae Bartz et al., 1951
+Streptomyces canescens Waksman, 1957
+Pseudonocardia halophobica (Akimov et al., 1989) McVeigh et al., 1994
+Photobacterium damsela subsp. damsela
+Streptomyces indigoferus Shinobu & Kawato, 1960
+Deinococcus erythromyxa Brooks & Murray, 1981
+Saccharothrix waywayandensis Labeda & Lyons, 1989
+Lentzea albidocapillata Yassin et al., 1995
+Listonella anguillarum (Bergeman, 1909) MacDonell & Colwell, 1986
+Thiobacillus delicatus
+Variovorax paradoxus_A
+Dactylosporangium matsuzakiense Shomura & Niida, 1983
+Arthrobacter polychromogenes Schippers-Lammertse et al., 1963
+Vibrio mediterranei Pujalte & Garay, 1986
+Halomonas elongata Vreeland et al., 1980
+Streptomyces variegatus Sveshnikova & Timuk, 1986
+Microbispora Nonomura & Ohara, 1957
+Streptomyces cyaneus (Krassilnikov, 1941) Waksman, 1953
+Kineococcus aurantiacus Yokota et al., 1993
+Enterococcus durans
+Streptomyces actuosus_A
+Streptomyces olivochromogenes (Waksman, 1923) Waksman & Henrici, 1948
+Streptomyces griseoluteus A
+Janthinobacterium lividum E
+Streptomyces herbaricolor Kawato & Shinobu, 1959
+Nocardioides jensenii (Suzuki & Komagata, 1983) Collins et al., 1989
+Kocuria rosea (Flügge, 1886) Stackebrandt et al., 1995
+Aureobacterium barkeri Collins et al., 1983
+Actinomadura hibisca Tomita et al., 1991
+Bifidobacterium bifidum (Tissier, 1900) Orla-Jensen, 1924
+Stomatococcus mucilaginosus Bergan & Kocur, 1982
+Actinomadura cremea subsp. rifamycini Gauze et al., 1987
+Lactobacillus fructosus Kodama, 1956
+Lactobacillus casei subsp. casei
+Desulfovibrio desulfuricans_D
+Streptomyces biverticillatus (Preobrazhenskaya, 1957) Witt & Stackebrandt, 1991
+Pseudonocardia autotrophica_A
+Streptomyces corchorusii
+Streptomyces antimycoticus Waksman, 1957
+Actinomadura citrea Lavrova et al., 1972
+Devosia riboflavina
+Rhizobium leguminosarum_E
+Haloferax mediterranei (Rodriguez-Valera et al., 1983) Torreblanca et al., 1987
+Acetobacter pasteurianus (Hansen, 1879) Beijerinck & Folpmers, 1916
+Streptomyces achromogenes subsp. rubradiris Bhuyan et al., 1965
+Nocardia brasiliensis_A
+Bradyrhizobium japonicum_C
+Actinomadura atramentaria Miyadoh et al., 1987
+Streptococcus salivarius Andrewes & Horder, 1906
+Paenibacillus amylolyticus_B
+Streptomyces xantholiticus (Konev & Tsyganov, 1962) Pridham, 1970
+Nocardia globerula
+Corynebacterium xerosis (Lehmann & Neumann, 1896) Lehmann & Neumann, 1899
+Actinomadura libanotica Meyer, 1981
+Sphingobacterium faecium Takeuchi & Yokota, 1993
+Salmonella enteritidis (Gaertner, 1888) Castellani & Chalmers, 1919
+Streptomyces cellulosae A
+Kocuria kristinae (Kloos et al., 1974) Stackebrandt et al., 1995
+Pediococcus pentosaceus Mees, 1934
+Frateuria aurantia
+Streptomyces albidus
+Streptomyces althioticus Yamaguchi et al., 1957
+Corynebacterium pseudodiphtheriticum Lehmann & Neumann, 1896
+Excellospora viridilutea Agre & Guzeva, 1975
+Lactobacillus fructivorans Charlton et al., 1934
+Mycoplana dimorpha Gray & Thornton, 1928
+Streptococcus Rosenbach, 1884
+Actinoplanes digitatis (Couch, 1963) Stackebrandt & Kroppenstedt, 1988
+Psychrobacter Juni & Heym, 1986
+Streptomyces hygroscopicus subsp. angustmyceticus Yüntsen et al., 1956
+Streptomyces flavidovirens (Kudrina, 1957) Pridham et al., 1958
+Streptomyces netropsis (Finlay et al., 1951) Witt & Stackebrandt, 1991
+Lactobacillus paracasei subsp. tolerans (Abo-Elnaga & Kandler, 1965) Collins et al., 1989
+Proteus vulgaris_B
+Gluconobacter oxydans (Henneberg, 1897) De Ley, 1961
+Streptomyces cuspidosporus Higashide et al., 1966
+Streptomyces californicus
+Nocardia carnea (Rossi Doria, 1891) Castellani & Chalmers, 1913
+Cellulomonas cellulans_A
+Citrobacter freundii_E
+Streptomyces chryseus (Krassilnikov et al., 1965) Pridham, 1970
+Streptomyces graminofaciens Charney et al., 1953
+Leuconostoc mesenteroides subsp. mesenteroides
+Streptomyces caniferus
+Arthrobacter ilicis Collins et al., 1982
+Streptosporangium claviforme Petrolini et al., 1993
+Cytophaga lytica Lewin, 1969
+Rhizobium trifolii Dangeard, 1926
+Streptomyces cyaneogriseus
+Pelczaria aurantia Poston, 1994
+Streptomyces melanogenes Sugawara & Onuma, 1957
+Saccharothrix texasensis Labeda & Lyons, 1989
+Actinomadura cremea subsp. cremea
+Mycoplasma pulmonis (Sabin, 1941) Freundt, 1955
+Rothia dentocariosa (Onishi, 1949) Georg & Brown, 1967
+Bacillus subtilis G
+Streptomyces flavochromogenes
+Streptomyces amakusaensis Nagatsu et al., 1963
+Mycoplasma orale Taylor-Robinson et al., 1964
+Bacillus psychrophilus Nakamura, 1984
+Streptomyces michiganensis Corbaz et al., 1957
+Actinoplanes deccanensis Parenti et al., 1975
+Amycolatopsis Lechevalier et al., 1986
+Planomonospora parontospora subsp. antibiotica Thiemann et al., 1968
+Xanthomonas pisi
+Streptomyces griseus subsp. griseus
+Streptomyces vinaceus Jones, 1952
+Kytococcus sedentarius (ZoBell & Upham, 1944) Stackebrandt et al., 1995
+Flavobacterium okeanokoites ZoBell & Upham, 1944
+Salmonella choleraesuis subsp. choleraesuis
+Curtobacterium pusillum_C
+Acetobacter hansenii Gosselé et al., 1983
+Streptomyces atroaurantiacus Nakagaito et al., 1993
+Micromonospora citrea Kroppenstedt et al., 2005
+Actinoplanes rectilineatus Lechevalier & Lechevalier, 1975
+Lactobacillus brevis (Orla-Jensen, 1919) Bergey et al., 1934
+Paenibacillus alvei (Cheshire & Cheyne, 1885) Ash et al., 1994
+Mycoplana segnis Urakami et al., 1990
+Streptomyces albaduncus
+Streptomyces cinereorectus Terekhova & Preobrazhenskaya, 1986
+Bacillus fusiformis
+Streptomyces chartreusis_D
+Streptomyces venezuelae_B
+Streptomyces pseudoechinosporeus Goodfellow et al., 1986
+Streptomyces mobaraensis (Nagatsu & Suzuki, 1963) Witt & Stackebrandt, 1991
+Cytophaga uliginosa (ZoBell & Upham, 1944) Reichenbach, 1989
+Bacillus mycoides Flügge, 1886
+Intrasporangium calvum Kalakoutskii et al., 1967
+Streptomyces chrysomallus subsp. fumigatus Frommer, 1959
+Lactobacillus amylophilus Nakamura & Crowell, 1981
+Vibrio alginolyticus (Miyamoto et al., 1961) Sakazaki, 1968
+Comamonas acidovorans
+Streptomyces longisporus (Krassilnikov, 1941) Waksman, 1953
+Dermacoccus nishinomiyaensis (Oda, 1935) Stackebrandt et al., 1995
+Mycoplasma hyorhinis Switzer, 1955
+Flexibacter filiformis
+Streptomyces humidus Nakazawa & Shibata, 1956
+Streptomyces pluricolorescens
+Streptomyces luteoverticillatus (Shinobu, 1956) Witt & Stackebrandt, 1991
+Streptosporangium corrugatum Williams & Sharples, 1976
+Mycoplasma anatis Roberts, 1964
+Streptomyces kashmirensis (Gupta & Chopra, 1963) Witt & Stackebrandt, 1991
+Streptomyces lavendulae_C
+Streptomyces libani subsp. rufus Baldacci & Grein, 1966
+Thermomonospora curvata Henssen, 1957
+Mycoplasma meleagridis Yamamoto et al., 1965
+Streptomyces microflavus (Krainsky, 1914) Waksman & Henrici, 1948
+Streptomyces roseus
+Oceanospirillum multiglobuliferum (Terasaki, 1973) Terasaki, 1979
+Rubrobacter radiotolerans (Yoshinaka et al., 1973) Suzuki et al., 1989
+Streptomyces prasinus Ettlinger et al., 1958
+Propionibacterium avidum (Eggerth, 1935) Moore & Holdeman, 1969
+Kurthia gibsonii Shaw & Keddie, 1983
+Bacillus atrophaeus Nakamura, 1989
+Streptomyces roseolilacinus (Preobrazhenskaya & Sveshnikova, 1957) Pridham et al., 1958
+Streptomyces cinnabarinus (Ryabova & Preobrazhenskaya, 1957) Pridham et al., 1958
+Streptomyces lavendulocolor (Kuchaeva et al., 1961) Pridham, 1970
+Streptomyces heliomycini
+Streptomyces cinnamonensis Okami, 1952
+Kibdelosporangium aridum subsp. largum Shearer et al., 1988
+Streptomyces roseoviolaceus (Sveshnikova, 1957) Pridham et al., 1958
+Streptomyces hydrogenans Lindner et al., 1958
+Corynebacterium Lehmann & Neumann, 1896
+Kutzneria kofuensis (Nonomura & Ohara, 1969) Stackebrandt et al., 1994
+Corynebacterium kutscheri (Migula, 1900) Bergey et al., 1925
+Planobispora longispora Thiemann & Beretta, 1968
+Arcanobacterium haemolyticum
+Hafnia alvei B
+Clostridium butyricum_B
+Thiobacillus novellus Starkey, 1934
+Streptosporangium amethystogenes Nonomura & Ohara, 1960
+Rhodococcus erythropolis D
+Streptomyces chibaensis Suzuki et al., 1958
+Mycobacterium diernhoferi
+Nitrosomonas europaea Winogradsky, 1892
+Acetobacter Beijerinck, 1898
+Streptomyces atrovirens
+Streptomyces praecox (Millard & Burr, 1926) Waksman, 1953
+Paenibacillus polymyxa_E
+Streptomyces coeruleofuscus (Preobrazhenskaya, 1957) Pridham et al., 1958
+Pseudomonas pseudoalcaligenes subsp. pseudoalcaligenes
+Streptomyces niveoruber
+Streptomyces griseorubens
+Streptomyces megasporus
+Saccharopolyspora hirsuta subsp. kobensis Lacey, 1989
+Mycobacterium phlei Lehmann & Neumann, 1899
+Vibrio tubiashii A
+Actinoplanes philippinensis Couch, 1950
+Aureobacterium flavescens (Lochhead, 1958) Collins et al., 1983
+Mycobacterium fortuitum subsp. fortuitum
+Micromonospora echinospora subsp. echinospora
+Streptomyces regensis Gupta et al., 1963
+Saccharothrix coeruleofusca (Preobrazhenskaya & Sveshnikova, 1974) Grund & Kroppenstedt, 1990
+Pseudomonas azotoformans Iizuka & Komagata, 1963
+Streptomyces echinatus Corbaz et al., 1957
+Nocardioides albus Prauser, 1976
+Microtetraspora spiralis (Meyer, 1981) Kroppenstedt et al., 1991
+Agrobacterium rhizogenes_B
+Streptomyces capillispiralis Mertz & Higgens, 1982
+Streptomyces echinoruber Palleroni et al., 1981
+Streptomyces armeniacus (Kalakoutskii & Kusnetsov, 1964) Wellington & Williams, 1981
+Actinoalloteichus cyanogriseus Tamura et al., 2000
+Lactobacillus helveticus (Orla-Jensen, 1919) Bergey et al., 1925
+Thermoactinomyces Tsilinsky, 1899
+Streptomyces bungoensis Eguchi et al., 1993
+Streptomyces fulvorobeus Vinogradova & Preobrazhenskaya, 1986
+Streptomyces cinnamoneus subsp. sparsus (Thirumalachar, 1968) Witt & Stackebrandt, 1991
+Arthrobacter viscosus Gasdorf et al., 1965
+Bacillus azotoformans
+Streptomyces aureorectus
+Agrobacterium atlanticum Rüger & Höfle, 1992
+Erythrobacter longus Shiba & Simidu, 1982
+Streptomyces griseochromogenes Fukunaga, 1955
+Actinomadura umbrina Galatenko et al., 1987
+Planobispora rosea Thiemann, 1970
+Vibrio proteolyticus (Merkel et al., 1964) Baumann et al., 1982
+Azotobacter vinelandii Lipman, 1903
+Saccharothrix Labeda et al., 1984
+Brachybacterium conglomeratum
+Streptomyces cavourensis subsp. cavourensis
+Planococcus citreus Migula, 1894
+Streptomyces olivoverticillatus (Shinobu, 1956) Witt & Stackebrandt, 1991
+Micromonospora purpureochromogenes (Waksman & Curtis, 1916) Luedemann, 1971
+Alcaligenes xylosoxidans subsp. denitrificans (Rüger & Tan, 1983) Kiredjian et al., 1986
+Curtobacterium luteum_A
+Couchioplanes caeruleus subsp. azureus Tamura et al., 1994
+Streptomyces crystallinus Tresner et al., 1961
+Streptomyces bacillaris (Krassilnikov, 1958) Pridham, 1970
+Microbispora rosea subsp. aerata (Gerber & Lechevalier, 1964) Miyadoh et al., 1991
+Dermatophilus congolensis_A
+Streptomyces nigrescens (Sveshnikova, 1957) Pridham et al., 1958
+Streptomyces flavovirens (Waksman, 1923) Waksman & Henrici, 1948
+Streptomyces erumpens Calot & Cercos, 1963
+Streptomyces purpureus (Matsumae & Hata, 1968) Goodfellow et al., 1986
+Streptomyces showdoensis Nishimura et al., 1964
+Streptomyces halstedii (Waksman & Curtis, 1916) Waksman & Henrici, 1948
+Streptomyces pulveraceus Shibata et al., 1961
+Thermomonospora mesouviformis Nonomura & Ohara, 1974
+Salmonella typhimurium (Loeffler, 1892) Castellani & Chalmers, 1919
+Streptomyces globosus (Krassilnikov, 1941) Waksman, 1953
+Aureobacterium Collins et al., 1983
+Terrabacter tumescens (Jensen, 1934) Collins et al., 1989
+Sulfolobus solfataricus Zillig et al., 1980
+Microtetraspora salmonea (Preobrazhenskaya et al., 1975) Kroppenstedt et al., 1991
+Streptomyces globisporus subsp. globisporus
+Nitrobacter winogradskyi_A
+Streptomyces peucetius Grein et al., 1963
+Cellulomonas fermentans Bagnara et al., 1985
+Flavobacterium ferrugineum Sickles & Shaw, 1934
+Azotobacter chroococcum Beijerinck, 1901
+Streptomyces indiaensis (Gupta, 1965) Kudo & Seino, 1987
+Saccharomonospora azurea Runmao, 1987
+Saccharopolyspora hirsuta subsp. hirsuta
+Methylobacterium rhodesianum Green et al., 1988
+Methylobacterium mesophilicum (Austin & Goodfellow, 1979) Green & Bousfield, 1983
+Pseudomonas fluorescens Migula, 1895
+Streptomyces gelaticus (Waksman, 1923) Waksman & Henrici, 1948
+Streptomyces flaviscleroticus Goodfellow et al., 1986
+Pseudonocardia petroleophila (Hirsch & Engel, 1956) Warwick et al., 1994
+Thermoactinomyces vulgaris Tsilinsky, 1899
+Vibrio ichthyoenteri Ishimura et al., 1996
+Gluconobacter oxydans subsp. oxydans
+Streptomyces alboflavus (Waksman & Curtis, 1916) Waksman & Henrici, 1948
+Microtetraspora rubra (Sveshnikova et al., 1969) Kroppenstedt et al., 1991
+Oceanospirillum kriegii Bowditch et al., 1984
+Streptomyces lucensis Arcamone et al., 1957
+Streptomyces viridoflavum (Locci & Schofield, 1989) Witt & Stackebrandt, 1991
+Beijerinckia indica subsp. indica
+Streptomyces brasiliensis (Falcão de Morais et al., 1966) Goodfellow et al., 1986
+Nocardia farcinica Trevisan, 1889
+Bacillus centrosporus Nakamura, 1993
+Mycobacterium vaccae Bönicke & Juhasz, 1964
+Paenibacillus pulvifaciens (Nakamura, 1984) Ash et al., 1994
+Streptomyces tricolor (Wollenweber, 1920) Waksman, 1961
+Streptomyces fungicidicus_A
